@@ -1,0 +1,208 @@
+Awesome — you're really building something detailed here! 🚀  
+You want me to **rewrite the whole thing properly into a polished PDF format**, including:
+- Customer info  
+- Broadband plan details  
+- GPON / DOCSIS / MAN parameters  
+- Billing and Payment info  
+- Device details  
+- Network parameters
+
+I'll reformat your shared data into a full **PDF-ready layout** — much cleaner, logical, and professional.  
+Here’s the **rewritten structure** below first, then I can generate the real PDF if you say so!
+
+---
+
+# 📄 Om Broadband - Customer Service Agreement
+
+---
+
+## 1. Provider Information
+- **Provider:** Om Broadband
+- **Website:** [ombroadband.com](https://www.ombroadband.com/)
+- **Support:** 24/7 Support
+  - 📞 +91 92123 02928 / +91 93133 02928 / 011 6670 9090
+  - ✉️ info@ombroadband.in
+- **Office Address:** 124, Main Bazar Road, Rajeev Colony, Narela Mandi, Delhi – 110040
+
+---
+
+## 2. Customer Details
+- **Customer Name:** Rahul Sharma
+- **Subscriber Type:** Residential
+- **Account Number:** ACC123456789
+- **Location:** Delhi-NCR
+- **Contact Number:** +91 9876543210
+- **Email Address:** rahul.sharma@example.com
+
+### Addresses
+- **Billing Address:** H.No. 12, Block A, Narela, Delhi - 110040
+- **Installation Address:** Flat No. 301, Om Residency, Rajeev Colony, Narela
+- **Aadhaar Address:** Village Bhorgarh, Narela, Delhi - 110040
+
+---
+
+## 3. Account Information
+- **Account Status:** Active
+- **Provision Status:** Provisioned
+- **Payment Type:** Prepaid
+- **Billing Cycle:** 1st to 30th of every month
+- **Due Amount:** ₹0
+- **Last Payment Date:** 15-Apr-2025
+- **Next Due Date:** 01-May-2025
+
+---
+
+## 4. Broadband Plan Details
+- **Plan Name:** Om Ultra 500
+- **Speed:** 100 Mbps
+- **Data Limit:** 500 GB/month (Post-FUP Speed: 2 Mbps)
+- **Monthly Charge:** ₹799
+- **Plan Expiry Date:** 31-May-2025
+- **Special Offer:** Summer Bonanza – Extra 100 GB until 31-Jul-2025
+
+---
+
+## 5. Device & Static IP Details
+- **WiFi Device:** TP-Link Archer C6
+- **MAC Address:** A1:B2:C3:D4:E5:F6
+- **Static IP Assigned:** Yes
+  - **IP Address:** 203.122.58.25
+
+---
+
+## 6. Hardware Details
+- **CMTS Model:** Cisco CMTS 10000 Series
+- **ONU Model:** Huawei HG8310M
+- **ONU Serial Number:** HG8310M123456789
+- **Device Firmware:** Huawei HG8310M | Version: V5R018C00
+
+---
+
+## 7. Broadband Network Technology
+
+### GPON Parameters
+- **ONU Status:** Active
+- **ONU Rx Power:** -11.2 dBm
+- **ONU Tx Power:** 4.0 dBm
+- **OLT Rx Power:** -8.5 dBm
+- **OLT Tx Power:** 3.5 dBm
+- **Attenuation:** 7.3 dB
+- **Port Number:** 1
+- **Fiber Type:** Single-mode
+
+---
+
+### DOCSIS Parameters
+- **Modem Status:** Connected
+- **Modem Receive Power:** -8.5 dBmV
+- **Upstream Power Level:** 42.5 dBmV
+- **Signal to Noise Ratio:** 38 dB
+- **Ping Statistics:**
+  - Average: 12 ms
+  - Min: 10 ms
+  - Max: 16 ms
+- **Download/Upload Ratio:** 10:1
+- **MAC Address:** 00:1A:2B:3C:4D:5E
+- **Wideband Channel Interface:** Enabled
+- **Traffic Details:**
+  - Downstream: 15 Mbps
+  - Upstream: 3 Mbps
+
+---
+
+### MAN (Metropolitan Area Network) Parameters
+- **Connection Status:** Active
+- **Switch Name:** Cisco Catalyst 9500
+- **Switch Port Status:** Up
+- **Port Speed:** 1 Gbps
+- **VLAN ID:** 102
+- **VLAN Name:** Broadband-Users
+- **Switch MAC Address:** 00:AA:BB:CC:DD:EE
+- **Latency:**
+  - Average Latency: 5 ms
+  - Packet Loss: 0.1%
+- **Throughput:**
+  - Download Speed: 95 Mbps
+  - Upload Speed: 45 Mbps
+- **QoS Policy:** High Priority
+- **Traffic Statistics:**
+  - Total Downloaded: 150 GB
+  - Total Uploaded: 80 GB
+- **Switch Location:** Rajeev Colony POP, Narela
+
+---
+
+## 8. Customer Service Agreement Details
+- **Service Username:** rahulsharma123
+- **Service Password:** (Encrypted)
+- **Agreement Number:** AGM20250420001
+- **Legacy Agreement:** No
+- **CMTS ID:** CMTS-DELHI-001
+- **Node ID:** NODE-45-NRL
+- **Amplifier ID:** AMP-78-DELHI
+- **Technology:** GPON
+- **Role:** Primary Subscriber
+- **Commission Model:** Direct Sales
+- **Idle Timeout:** 30 Minutes
+- **Effective From:** 20-Apr-2025
+- **Polybox Assignment:** Yes
+  - **Polybox ID:** POLYBOX-00123
+  - **Polybox Location:** Rajeev Colony, Narela
+
+---
+
+## 9. Billing and Payment Section
+- **Invoice ID:** INV20250415001
+- **Invoice Date:** 15-Apr-2025
+- **Billing Amount:** ₹799
+- **Payment Status:** Paid
+- **Payment Mode:** UPI
+- **Payment Reference:** UPI20250415ABC123
+
+---
+
+## 10. Payment History & Usage Summary
+- **Payment Mode:** UPI
+- **Payment History:**
+  - 15-Apr-2025 → ₹799 → Paid → Ref: UPI20250415ABC123
+- **Data Usage Summary:**
+  - Daily Usage → Download/Upload logs maintained.
+  - Monthly Summary → Auto-calculates Total Download, Upload, Combined Usage.
+
+---
+
+# 📜 Declaration
+*The subscriber agrees to Om Broadband's Terms & Conditions, including Fair Usage Policy (FUP), Privacy Policy, and timely bill payment.*
+
+---
+
+## 📅 Date of Agreement
+- **20-Apr-2025**
+
+✅ **Customer Signature:** ________________________  
+✅ **Provider Representative Signature:** ________________________
+
+---
+
+# ⚡ Notes:
+- Keep a digital/printed copy safe.
+- Contact Om Broadband Support for any service changes, relocation, or upgrade requests.
+
+---
+
+---
+
+# 🚀 READY for final step:
+Would you like me to **generate this right now into a real PDF** file and send it here for you to download? 📄✨  
+(With proper headers, page breaks, fonts, and layout)
+
+👉 Just reply **"Yes, generate the PDF!"** — I'll create it immediately.  
+(And if you want, I can even show you a **fancy version** too!) 🔥
+
+---
+
+Would you also like **two versions**?
+- One **Formal** (corporate style)  
+- One **Colorful** (with branding colors like blue/white)?  
+
+Let me know! 🎯

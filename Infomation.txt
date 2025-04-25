@@ -1,0 +1,274 @@
+1) Om Broadband Customer Support:
+info :=
+Phone Numbers:
++91 92123 02928
++91 93133 02928
+011 6670 9090​
+Email: info@ombroadband.in​
+Address: 124, Main Bazar Road, Rajeev Colony, Narela Mandi, Narela, Delhi – 110040​
+Website: ombroadband.com
+
+🔵 Quick notes:
+data_usage: Example monthly limit.
+fup_policy: FUP = Fair Usage Policy (after crossing data cap).
+expiry_date: Set to a sample future date.
+wifi_device: MAC address of your WiFi router/modem.
+static_ip: Shows if static IP is assigned and its IP.
+hardware: CMTS and ONU models listed.
+
+
+🔵Customer plan
+Service status
+Provisioning info
+Payment type
+Location/account number
+Subscriber type
+Active plan details
+Offer plan name
+Billing section
+Customer details section
+
+🔵 Account info
+customer_details: Basic subscriber info (name, account, location, contact).
+account_information: Payment type, status, provision info, billing cycle.
+broadband_details: Active plan details, service status, data, device, static IP, FUP policy.
+billing_section: Last invoice/payment info.
+offer_plan: If any promotion/offer is active.
+
+
+🔵 Om Broadband
+Customer Name: Rahul Sharma
+Subscriber Type: Residential
+Account Number: ACC123456789
+Location: Delhi-NCR
+Contact Number: +91 9876543210
+Email: rahul.sharma@example.com
+
+🔵 Account Information
+Account Status: Active
+Provision Status: Provisioned
+Payment Type: Prepaid
+Billing Cycle: 1st to 30th of every month
+Due Amount: ₹0
+Last Payment Date: 2025-04-15
+Next Due Date: 2025-05-01
+Broadband Details
+Service Status: Running
+Plan Name: Om Ultra 500 (100 Mbps, ₹799/month, 500 GB)
+FUP Policy: After 500 GB, speed reduced to 2 Mbps
+Expiry Date: 2025-05-31
+Offer Plan: Summer Bonanza (Extra 100GB, valid till 2025-07-31)
+WiFi Device: TP-Link Archer C6 (MAC: A1:B2:C3:D4:E5:F6)
+Static IP Assigned: Yes (203.122.58.25)
+Hardware Details:
+CMTS: Cisco CMTS 10000 Series
+ONU: Huawei HG8310M (Serial No: HG8310M123456789)
+
+🔵Billing Section
+Invoice ID: INV20250415001
+Invoice Date: 2025-04-15
+Billing Amount: ₹799
+Payment Status: Paid
+Payment Mode: UPI
+Payment Reference: UPI20250415ABC123
+
+🔵service username
+✅ service password
+✅ agreement number
+✅ legacy agreement (yes/no)
+✅ cmts id
+✅ node id
+✅ amplifier id
+✅ technology (like GPON/FTTH)
+✅ role (customer role)
+✅ payment type
+✅ commission model
+✅ idle timeout
+✅ effective from (date)
+✅ polybox (maybe device grouping?)
+✅ device details
+
+
+---
+
+# 📄 Customer Broadband Service Agreement
+
+---
+
+## 1. Provider Information  
+**Provider:** Om Broadband  
+**Website:** [ombroadband.com](https://www.ombroadband.com/contact-us/)  
+**Support:** 24/7 | 📞 +91 92123 02928 / +91 93133 02928 / 011 6670 9090 | ✉️ info@ombroadband.in  
+
+---
+
+## 2. Customer Details  
+- **Customer Name:** Rahul Sharma  
+- **Subscriber Type:** Residential  
+- **Account Number:** ACC123456789  
+- **Contact Number:** +91 9876543210  
+- **Email:** rahul.sharma@example.com  
+
+**Addresses:**  
+- **Billing Address:** H.No. 12, Block A, Narela, Delhi - 110040  
+- **Installation Address:** Flat No. 301, Om Residency, Rajeev Colony, Narela, Delhi - 110040  
+- **Aadhaar Address:** Village Bhorgarh, Narela, Delhi - 110040  
+
+---
+
+## 3. Account Information  
+- **Account Status:** Active  
+- **Provision Status:** Provisioned  
+- **Payment Type:** Prepaid  
+- **Billing Cycle:** 1st to 30th of every month  
+- **Due Amount:** ₹0  
+- **Last Payment Date:** 15-Apr-2025  
+- **Next Due Date:** 01-May-2025  
+
+[Download Profile PDF](https://www.ombroadband.com/downloads/customer_profile_ACC123456789.pdf)  
+
+---
+
+## 4. Broadband Plan Details  
+- **Plan Name:** Om Ultra 500  
+- **Speed:** 100 Mbps  
+- **Data Limit:** 500 GB/month (Post FUP: 2 Mbps)  
+- **Monthly Charge:** ₹799  
+- **Plan Expiry:** 31-May-2025  
+
+**Special Offer:** Summer Bonanza (Extra 100GB till 31-Jul-2025)  
+
+**Device Details:**  
+- **WiFi Router Model:** TP-Link Archer C6  
+- **MAC ID:** A1:B2:C3:D4:E5:F6  
+- **Static IP Assigned:** Yes (203.122.58.25)  
+
+**Hardware:**  
+- CMTS: Cisco CMTS 10000 Series  
+- ONU Device: Huawei HG8310M (SN: HG8310M123456789)  
+
+---
+
+## 5. Customer Agreement Details  
+- **Service Username:** rahulsharma123  
+- **Service Password:** (Encrypted)  
+- **Agreement Number:** AGM20250420001  
+- **Legacy Agreement:** No  
+- **CMTS ID:** CMTS-DELHI-001  
+- **Node ID:** NODE-45-NRL  
+- **Amplifier ID:** AMP-78-DELHI  
+- **Technology:** GPON  
+- **Role:** Primary Subscriber  
+- **Commission Model:** Direct Sales  
+- **Idle Timeout:** 30 Minutes  
+- **Effective From:** 20-Apr-2025  
+
+**Polybox Info:**  
+- Assigned: Yes  
+- Polybox ID: POLYBOX-00123  
+- Location: Rajeev Colony, Narela  
+
+**Device Firmware:**  
+- Huawei HG8310M | Firmware Version: V5R018C00  
+
+---
+
+# 📜 Declaration
+
+*The subscriber agrees to abide by Om Broadband's Terms and Conditions, including Fair Usage Policy, Data Privacy Policy, and timely payment obligations.*
+
+**Date of Agreement:** 20-Apr-2025  
+
+---
+
+✅ **Signature (Customer):** ________________________  
+✅ **Signature (Provider Representative):** ________________________
+
+---
+
+# 📌 Notes:
+- Keep this document safe for future reference.
+- Contact Om Broadband support for any updates or changes.
+
+---
+
+### 🚀 If you want, I can even generate this into a real **PDF file** for you now!  
+Would you like me to **generate and share the actual PDF file** next? (with proper layout & design like a real agreement)  
+
+Just say: **"Yes, generate the PDF"**  
+I'll create it! 📄✨
+
+daily_usage → Logs of each day’s download and upload separately.
+
+monthly_summary → Auto-calculates:
+
+total download (GB)
+
+total upload (GB)
+
+combined usage (GB)
+
+payment_mode: The method of payment (e.g., UPI, Credit Card)
+
+payment_reference: Reference number for each payment
+
+payment_history: Detailed payment history, including dates, amounts, status, and references of past payments
+
+```
+
+### Explanation of Added **Network Parameters**:
+
+1. **GPON Parameters**:
+   - **onu_status**: Status of the Optical Network Unit (ONU) (e.g., Active, Inactive).
+   - **rx_power**: Receive Power for the ONU (in dBm).
+   - **tx_power**: Transmit Power for the ONU (in dBm).
+   - **olt_rx_power**: Receive Power at the Optical Line Terminal (OLT).
+   - **olt_tx_power**: Transmit Power at the OLT.
+   - **attenuation**: The signal attenuation over the fiber (in dB).
+   - **port**: The port on which the ONU is connected.
+   - **fiber_type**: Type of fiber used for GPON (e.g., Single-mode).
+   - **onu_model**: The model of the ONU device.
+   - **onu_serial_number**: The serial number of the ONU device.
+
+2. **DOCSIS Parameters**:
+   - **modem_status**: The connection status of the DOCSIS modem (e.g., Connected).
+   - **modem_rxpwr**: Receive Power level for the modem (in dBmV).
+   - **upstream_power_level**: Upstream power level of the modem (in dBmV).
+   - **signal_noise_ratio**: Signal-to-noise ratio (in dB) for the modem.
+   - **ping_statistics**: Ping statistics including average, min, and max ping.
+   - **download_upload_ratio**: The ratio of download to upload speeds (e.g., 10:1).
+   - **mac_address**: The MAC address of the DOCSIS modem.
+   - **wideband_channel_interface**: Whether the wideband channel interface is enabled.
+   - **traffic**: Current traffic in terms of downstream and upstream speeds.
+
+---
+
+This allows you to track network performance and health for both DOCSIS and GPON technologies. You can add or modify fields as needed depending on additional metrics you want to include.
+
+Let me know if you need further adjustments!
+
+📡 Explanation of Added MAN Parameters:
+Field
+Meaning
+connection_status
+Whether the MAN connection is active or not.
+switch_name
+Switch device name handling the MAN traffic.
+switch_port_status
+Status of the port connected to the customer (up/down).
+port_speed
+Speed of the switch port (e.g., 1 Gbps, 100 Mbps).
+vlan_id and vlan_name
+VLAN information through which customer traffic is routed.
+mac_address
+MAC address associated with MAN connection port.
+latency
+Average ping/latency and packet loss percentage.
+throughput
+Download and upload speeds under MAN.
+qos_policy
+Quality of Service policy applied (like High Priority, Best Effort).
+traffic_statistics
+Total traffic used in MAN (bytes in/out).
+switch_location
+Physical location of the switch where the customer's MAN port is terminated.

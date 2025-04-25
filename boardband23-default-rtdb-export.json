@@ -1,0 +1,1631 @@
+{
+  "card": [
+    {
+      "customer_id": "CUST123456789",
+      "data": {
+        "provider": "Om Broadband",
+        "timestamp": "2025-04-20T12:00:00Z"
+      },
+      "customer_service": {
+        "phone_numbers": [
+          "+91 92123 02928",
+          "+91 93133 02928",
+          "011 6670 9090"
+        ],
+        "email": "info@ombroadband.in",
+        "address": "124, Main Bazar Road, Rajeev Colony, Narela Mandi, Narela, Delhi – 110040",
+        "website": "https://www.ombroadband.com/contact-us/",
+        "support_hours": "24/7"
+      },
+      "customer_details": {
+        "customer_name": "Rahul Sharma",
+        "subscriber_type": "Residential",
+        "account_number": "ACC123456789",
+        "password": "EncryptedPassword123",
+        "username": "rahulsharma123",
+        "customer_status": "Active",
+        "customer_type": "Residential",
+        "customer_category": "Individual",
+        "customer_subcategory": "Home",
+        "customer_subtype": "Individual",
+        "customer_subtype_code": "IND",
+        "tier": "Platinum",
+        "location": "Delhi-NCR",
+        "contact_number": "+91 9876543210",
+        "email": "rahul.sharma@example.com",
+        "addresses": {
+          "billing_address": "H.No. 12, Block A, Narela, Delhi - 110040",
+          "installation_address": "Flat No. 301, Om Residency, Rajeev Colony, Narela, Delhi - 110040",
+          "aadhaar_address": "Village Bhorgarh, Narela, Delhi - 110040"
+        }
+      },
+      "customer_preferences": {
+        "preferred_language": "Hindi",
+        "communication_mode": "Email",
+        "contact_time": "Evening",
+        "marketing_opt_in": true,
+        "feedback_opt_in": true,
+        "service_notifications": true,
+        "promotional_offers": true
+      },
+      "customer_documents": {
+        "aadhaar_card": {
+          "document_number": "1234 5678 9012",
+          "document_type": "Aadhaar",
+          "document_link": "https://www.ombroadband.com/downloads/aadhaar_card.pdf",
+          "uploaded_date": "2025-01-15"
+        },
+        "address_proof": {
+          "document_number": "DL-1234567890123",
+          "document_type": "Voter ID",
+          "document_link": "https://www.ombroadband.com/downloads/voter_id.pdf",
+          "uploaded_date": "2025-01-20"
+        },
+        "identity_proof": {
+          "document_number": "DL1234567890",
+          "document_type": "Driving License",
+          "document_link": "https://www.ombroadband.com/downloads/driving_license.pdf",
+          "uploaded_date": "2025-01-25"
+        }
+      },
+      "customer_feedback": {
+        "last_feedback_date": "2025-04-15",
+        "rating": 4.5,
+        "comments": "Good service, but internet speed fluctuates occasionally."
+      },
+      "account_information": {
+        "account_status": "Active",
+        "account_creation_date": "2025-01-15",
+        "last_updated": "2025-04-15",
+        "provision_status": "Provisioned",
+        "payment_type": "Prepaid",
+        "billing_cycle": "1st to 30th of every month",
+        "due_amount": "₹0",
+        "last_payment_date": "2025-04-15",
+        "next_due_date": "2025-05-01",
+        "profile_pdf": {
+          "pdf_name": "customer_profile_ACC123456789.pdf",
+          "pdf_link": "https://www.ombroadband.com/downloads/customer_profile_ACC123456789.pdf",
+          "created_date": "2025-04-20"
+        }
+      },
+      "broadband_details": {
+        "service_status": "Running",
+        "plan_name": "Om Ultra 500",
+        "data_usage": "500 GB per month",
+        "fup_policy": "After 500 GB, speed reduced to 2 Mbps",
+        "active_plan": {
+          "plan_id": "PLN500U",
+          "plan_name": "Om Ultra 500",
+          "speed": "100 Mbps",
+          "monthly_charge": "₹799",
+          "validity_days": 30
+        },
+        "offer_plan": {
+          "offer_name": "Summer Bonanza",
+          "description": "Get extra 100GB for 3 months",
+          "valid_till": "2025-07-31"
+        },
+        "expiry_date": "2025-05-31",
+        "wifi_device": {
+          "mac_id": "A1:B2:C3:D4:E5:F6",
+          "device_model": "TP-Link Archer C6"
+        },
+        "static_ip": {
+          "assigned": true,
+          "ip_address": "203.122.58.25"
+        },
+        "hardware": {
+          "cmts": "Cisco CMTS 10000 Series",
+          "onu": "Huawei HG8310M",
+          "onu_serial_number": "HG8310M123456789"
+        }
+      },
+      "broadband_usage": {
+        "daily_usage": [
+          {
+            "date": "2025-04-01",
+            "download_gb": 12.5,
+            "upload_gb": 3.2
+          },
+          {
+            "date": "2025-04-02",
+            "download_gb": 8.1,
+            "upload_gb": 2.4
+          },
+          {
+            "date": "2025-04-03",
+            "download_gb": 15.6,
+            "upload_gb": 5.0
+          }
+        ],
+        "monthly_summary": {
+          "month": "April 2025",
+          "total_download_gb": 245.7,
+          "total_upload_gb": 58.9,
+          "total_usage_gb": 304.6
+        }
+      },
+      "customer_support": {
+        "support_tickets": [
+          {
+            "ticket_id": "TICKET123456",
+            "issue_type": "Internet Connectivity",
+            "issue_description": "Intermittent connectivity issues",
+            "status": "Resolved",
+            "created_date": "2025-04-10",
+            "resolved_date": "2025-04-12"
+          },
+          {
+            "ticket_id": "TICKET123457",
+            "issue_type": "Billing Query",
+            "issue_description": "Incorrect billing amount",
+            "status": "Open",
+            "created_date": "2025-04-14"
+          }
+        ],
+        "feedback": {
+          "last_feedback_date": "2025-04-15",
+          "rating": 4.5,
+          "comments": "Good service, but internet speed fluctuates occasionally."
+        }
+      },
+      "network_status": {
+        "last_updated": "2025-04-15T10:00:00Z",
+        "status": "Operational",
+        "issues": [
+          {
+            "issue_id": "ISSUE123456",
+            "description": "Minor outage in Narela area",
+            "reported_date": "2025-04-14",
+            "resolved_date": null,
+            "status": "In Progress"
+          }
+        ]
+      },
+      "billing_section": {
+        "invoice_id": "INV20250415001",
+        "invoice_date": "2025-04-15",
+        "billing_amount": "₹799",
+        "payment_status": "Paid",
+        "payment_mode": "UPI",
+        "payment_reference": "UPI20250415ABC123",
+        "payment_history": [
+          {
+            "payment_date": "2025-04-15",
+            "payment_amount": "₹799",
+            "payment_mode": "UPI",
+            "payment_status": "Paid",
+            "payment_reference": "UPI20250415ABC123"
+          },
+          {
+            "payment_date": "2025-03-15",
+            "payment_amount": "₹799",
+            "payment_mode": "Credit Card",
+            "payment_status": "Paid",
+            "payment_reference": "CC20250315XYZ789"
+          }
+        ]
+      },
+      "customer_agreement_details": {
+        "service_username": "rahulsharma123",
+        "service_password": "EncryptedPassword123",
+        "agreement_number": "AGM20250420001",
+        "legacy_agreement": false,
+        "cmts_id": "CMTS-DELHI-001",
+        "node_id": "NODE-45-NRL",
+        "amplifier_id": "AMP-78-DELHI",
+        "technology": "GPON",
+        "role": "Primary Subscriber",
+        "payment_type": "Prepaid",
+        "commission_model": "Direct Sales",
+        "idle_timeout_minutes": 30,
+        "effective_from": "2025-04-20",
+        "polybox": {
+          "assigned": true,
+          "box_id": "POLYBOX-00123",
+          "location": "Rajeev Colony, Narela"
+        },
+        "device_details": {
+          "device_type": "ONU",
+          "brand": "Huawei",
+          "model": "HG8310M",
+          "serial_number": "HG8310M123456789",
+          "firmware_version": "V5R018C00"
+        }
+      },
+      "network_parameters": {
+        "technology": "GPON",
+        "gpon": {
+          "onu_status": "Active",
+          "rx_power": "-11.2 dBm",
+          "tx_power": "4.0 dBm",
+          "olt_rx_power": "-8.5 dBm",
+          "olt_tx_power": "3.5 dBm",
+          "attenuation": "7.3 dB",
+          "port": "1",
+          "fiber_type": "Single-mode",
+          "onu_model": "Huawei HG8310M",
+          "onu_serial_number": "HG8310M123456789"
+        },
+        "docsis": {
+          "modem_status": "Connected",
+          "modem_rxpwr": "-8.5 dBmV",
+          "upstream_power_level": "42.5 dBmV",
+          "signal_noise_ratio": "38 dB",
+          "ping_statistics": {
+            "ping_avg": "12 ms",
+            "ping_min": "10 ms",
+            "ping_max": "16 ms"
+          },
+          "download_upload_ratio": "10:1",
+          "mac_address": "00:1A:2B:3C:4D:5E",
+          "wideband_channel_interface": "Enabled",
+          "traffic": {
+            "current_downstream_traffic": "15 Mbps",
+            "current_upstream_traffic": "3 Mbps"
+          }
+        },
+        "man": {
+          "connection_status": "Active",
+          "switch_name": "Cisco Catalyst 9500",
+          "switch_port_status": "Up",
+          "port_speed": "1 Gbps",
+          "vlan_id": "102",
+          "vlan_name": "Broadband-Users",
+          "mac_address": "00:AA:BB:CC:DD:EE",
+          "latency": {
+            "average_latency_ms": "5 ms",
+            "packet_loss_percentage": "0.1%"
+          },
+          "throughput": {
+            "download_speed_mbps": "95 Mbps",
+            "upload_speed_mbps": "45 Mbps"
+          },
+          "qos_policy": "High Priority",
+          "traffic_statistics": {
+            "total_bytes_received": "150 GB",
+            "total_bytes_sent": "80 GB"
+          },
+          "switch_location": "Rajeev Colony POP, Narela"
+        }
+      }
+    },
+    {
+      "customer_id": "CUST334455667",
+      "data": {
+        "provider": "Om Broadband",
+        "timestamp": "2025-04-16T11:00:00Z"
+      },
+      "customer_service": {
+        "phone_numbers": ["+91 92123 02928", "011 6670 9090"],
+        "email": "info@ombroadband.in",
+        "address": "77, Karol Bagh, Delhi – 110005",
+        "website": "https://www.ombroadband.com/contact-us/",
+        "support_hours": "24/7"
+      },
+      "customer_details": {
+        "customer_name": "Rohit Sharma",
+        "subscriber_type": "Business",
+        "account_number": "ACC334455667",
+        "password": "EncryptedRohit987",
+        "username": "rohitsharma987",
+        "customer_status": "Active",
+        "customer_type": "Business",
+        "customer_category": "Corporate",
+        "customer_subcategory": "Office",
+        "customer_subtype": "Enterprise",
+        "customer_subtype_code": "ENT",
+        "tier": "Gold",
+        "location": "Delhi-NCR",
+        "contact_number": "+91 9988771122",
+        "email": "rohit.sharma@enterprise.com",
+        "addresses": {
+          "billing_address": "77, Karol Bagh, Delhi - 110005",
+          "installation_address": "77, Karol Bagh, Delhi - 110005",
+          "aadhaar_address": "Karol Bagh, Delhi - 110005"
+        }
+      },
+      "customer_preferences": {
+        "preferred_language": "English",
+        "communication_mode": "Phone",
+        "contact_time": "Morning",
+        "marketing_opt_in": false,
+        "feedback_opt_in": true,
+        "service_notifications": true,
+        "promotional_offers": false
+      },
+      "customer_documents": {
+        "aadhaar_card": {
+          "document_number": "6789 0123 4567",
+          "document_type": "Aadhaar",
+          "document_link": "https://www.ombroadband.com/downloads/aadhaar_card_rohit.pdf",
+          "uploaded_date": "2025-03-10"
+        },
+        "address_proof": {
+          "document_number": "DL-6789012345678",
+          "document_type": "Electricity Bill",
+          "document_link": "https://www.ombroadband.com/downloads/electricity_bill_rohit.pdf",
+          "uploaded_date": "2025-03-15"
+        },
+        "identity_proof": {
+          "document_number": "DL6789012345",
+          "document_type": "PAN Card",
+          "document_link": "https://www.ombroadband.com/downloads/pan_card_rohit.pdf",
+          "uploaded_date": "2025-03-20"
+        }
+      },
+      "customer_feedback": {
+        "last_feedback_date": "2025-04-12",
+        "rating": 4.7,
+        "comments": "Great uptime, minimal issues."
+      },
+      "account_information": {
+        "account_status": "Active",
+        "account_creation_date": "2025-03-10",
+        "last_updated": "2025-04-12",
+        "provision_status": "Provisioned",
+        "payment_type": "Postpaid",
+        "billing_cycle": "15th to 14th of next month",
+        "due_amount": "₹2500",
+        "last_payment_date": "2025-04-10",
+        "next_due_date": "2025-04-15",
+        "profile_pdf": {
+          "pdf_name": "customer_profile_ACC334455667.pdf",
+          "pdf_link": "https://www.ombroadband.com/downloads/customer_profile_ACC334455667.pdf",
+          "created_date": "2025-04-12"
+        }
+      },
+      "broadband_details": {
+        "service_status": "Running",
+        "plan_name": "Om Enterprise 2000",
+        "data_usage": "2000 GB per month",
+        "fup_policy": "After 2000 GB, speed reduced to 10 Mbps",
+        "active_plan": {
+          "plan_id": "PLNENT2000",
+          "plan_name": "Om Enterprise 2000",
+          "speed": "500 Mbps",
+          "monthly_charge": "₹4999",
+          "validity_days": 30
+        },
+        "offer_plan": {
+          "offer_name": "Enterprise Advantage",
+          "description": "Free static IP for 6 months",
+          "valid_till": "2025-09-30"
+        },
+        "expiry_date": "2025-05-14",
+        "wifi_device": {
+          "mac_id": "F6:G7:H8:I9:J0:K1",
+          "device_model": "Asus RT-AX88U"
+        },
+        "static_ip": {
+          "assigned": true,
+          "ip_address": "203.122.58.200"
+        },
+        "hardware": {
+          "cmts": "Cisco CMTS 15000",
+          "onu": "FiberHome AN5506",
+          "onu_serial_number": "AN5506334455667"
+        }
+      },
+      "broadband_usage": {
+        "daily_usage": [
+          {
+            "date": "2025-04-01",
+            "download_gb": 100.0,
+            "upload_gb": 20.0
+          },
+          {
+            "date": "2025-04-02",
+            "download_gb": 90.0,
+            "upload_gb": 18.0
+          },
+          {
+            "date": "2025-04-03",
+            "download_gb": 110.0,
+            "upload_gb": 22.0
+          }
+        ],
+        "monthly_summary": {
+          "month": "April 2025",
+          "total_download_gb": 1500.0,
+          "total_upload_gb": 400.0,
+          "total_usage_gb": 1900.0
+        }
+      },
+      "customer_support": {
+        "support_tickets": [
+          {
+            "ticket_id": "TICKET678901",
+            "issue_type": "Static IP Issue",
+            "issue_description": "Static IP not reachable",
+            "status": "Resolved",
+            "created_date": "2025-04-05",
+            "resolved_date": "2025-04-06"
+          }
+        ],
+        "feedback": {
+          "last_feedback_date": "2025-04-12",
+          "rating": 4.7,
+          "comments": "Great uptime, minimal issues."
+        }
+      },
+      "network_status": {
+        "last_updated": "2025-04-12T15:00:00Z",
+        "status": "Operational",
+        "issues": []
+      },
+      "billing_section": {
+        "invoice_id": "INV20250410006",
+        "invoice_date": "2025-04-10",
+        "billing_amount": "₹4999",
+        "payment_status": "Unpaid",
+        "payment_mode": "Net Banking",
+        "payment_reference": "NB20250410PQR678",
+        "payment_history": [
+          {
+            "payment_date": "2025-04-10",
+            "payment_amount": "₹4999",
+            "payment_mode": "Net Banking",
+            "payment_status": "Unpaid",
+            "payment_reference": "NB20250410PQR678"
+          }
+        ]
+      },
+      "customer_agreement_details": {
+        "service_username": "rohitsharma987",
+        "service_password": "EncryptedRohit987",
+        "agreement_number": "AGM20250410006",
+        "legacy_agreement": true,
+        "cmts_id": "CMTS-KAROLBAGH-006",
+        "node_id": "NODE-66-KBG",
+        "amplifier_id": "AMP-88-KBG",
+        "technology": "GPON",
+        "role": "IT Head",
+        "payment_type": "Postpaid",
+        "commission_model": "Enterprise",
+        "idle_timeout_minutes": 90,
+        "effective_from": "2025-04-10",
+        "polybox": {
+          "assigned": true,
+          "box_id": "POLYBOX-00666",
+          "location": "Karol Bagh, Delhi"
+        },
+        "device_details": {
+          "device_type": "ONU",
+          "brand": "FiberHome",
+          "model": "AN5506",
+          "serial_number": "AN5506334455667",
+          "firmware_version": "V4.5.6"
+        }
+      },
+      "network_parameters": {
+        "technology": "GPON",
+        "gpon": {
+          "onu_status": "Active",
+          "rx_power": "-7.0 dBm",
+          "tx_power": "6.0 dBm",
+          "olt_rx_power": "-5.0 dBm",
+          "olt_tx_power": "5.5 dBm",
+          "attenuation": "4.0 dB",
+          "port": "6",
+          "fiber_type": "Single-mode",
+          "onu_model": "FiberHome AN5506",
+          "onu_serial_number": "AN5506334455667"
+        },
+        "docsis": {
+          "modem_status": "Connected",
+          "modem_rxpwr": "-5.0 dBmV",
+          "upstream_power_level": "45.0 dBmV",
+          "signal_noise_ratio": "42 dB",
+          "ping_statistics": {
+            "ping_avg": "6 ms",
+            "ping_min": "5 ms",
+            "ping_max": "8 ms"
+          },
+          "download_upload_ratio": "25:1",
+          "mac_address": "00:6F:7A:8B:9C:AD",
+          "wideband_channel_interface": "Enabled",
+          "traffic": {
+            "current_downstream_traffic": "400 Mbps",
+            "current_upstream_traffic": "50 Mbps"
+          }
+        },
+        "man": {
+          "connection_status": "Active",
+          "switch_name": "Cisco Nexus 9000",
+          "switch_port_status": "Up",
+          "port_speed": "40 Gbps",
+          "vlan_id": "301",
+          "vlan_name": "Enterprise-Users",
+          "mac_address": "00:FF:00:11:22:33",
+          "latency": {
+            "average_latency_ms": "1 ms",
+            "packet_loss_percentage": "0.01%"
+          },
+          "throughput": {
+            "download_speed_mbps": "450 Mbps",
+            "upload_speed_mbps": "60 Mbps"
+          },
+          "qos_policy": "High Priority",
+          "traffic_statistics": {
+            "total_bytes_received": "1800 GB",
+            "total_bytes_sent": "500 GB"
+          },
+          "switch_location": "Karol Bagh POP, Delhi"
+        }
+      }
+    },
+    {
+      "customer_id": "CUST223344556",
+      "data": {
+        "provider": "Om Broadband",
+        "timestamp": "2025-04-17T16:00:00Z"
+      },
+      "customer_service": {
+        "phone_numbers": ["+91 93133 02928", "011 6670 9090"],
+        "email": "info@ombroadband.in",
+        "address": "88, Lajpat Nagar, Delhi – 110024",
+        "website": "https://www.ombroadband.com/contact-us/",
+        "support_hours": "24/7"
+      },
+      "customer_details": {
+        "customer_name": "Meena Joshi",
+        "subscriber_type": "Residential",
+        "account_number": "ACC223344556",
+        "password": "EncryptedMeena654",
+        "username": "meenajoshi654",
+        "customer_status": "Active",
+        "customer_type": "Residential",
+        "customer_category": "Individual",
+        "customer_subcategory": "Flat",
+        "customer_subtype": "Family",
+        "customer_subtype_code": "FAM",
+        "tier": "Silver",
+        "location": "Delhi-NCR",
+        "contact_number": "+91 9876512345",
+        "email": "meena.joshi@example.com",
+        "addresses": {
+          "billing_address": "88, Lajpat Nagar, Delhi - 110024",
+          "installation_address": "88, Lajpat Nagar, Delhi - 110024",
+          "aadhaar_address": "Lajpat Nagar, Delhi - 110024"
+        }
+      },
+      "customer_preferences": {
+        "preferred_language": "English",
+        "communication_mode": "Email",
+        "contact_time": "Afternoon",
+        "marketing_opt_in": true,
+        "feedback_opt_in": true,
+        "service_notifications": true,
+        "promotional_offers": true
+      },
+      "customer_documents": {
+        "aadhaar_card": {
+          "document_number": "5678 9012 3456",
+          "document_type": "Aadhaar",
+          "document_link": "https://www.ombroadband.com/downloads/aadhaar_card_meena.pdf",
+          "uploaded_date": "2025-02-20"
+        },
+        "address_proof": {
+          "document_number": "DL-5678901234567",
+          "document_type": "Voter ID",
+          "document_link": "https://www.ombroadband.com/downloads/voter_id_meena.pdf",
+          "uploaded_date": "2025-02-25"
+        },
+        "identity_proof": {
+          "document_number": "DL5678901234",
+          "document_type": "Driving License",
+          "document_link": "https://www.ombroadband.com/downloads/driving_license_meena.pdf",
+          "uploaded_date": "2025-03-01"
+        }
+      },
+      "customer_feedback": {
+        "last_feedback_date": "2025-04-15",
+        "rating": 5.0,
+        "comments": "Very satisfied with the service."
+      },
+      "account_information": {
+        "account_status": "Active",
+        "account_creation_date": "2025-02-20",
+        "last_updated": "2025-04-15",
+        "provision_status": "Provisioned",
+        "payment_type": "Prepaid",
+        "billing_cycle": "1st to 30th of every month",
+        "due_amount": "₹0",
+        "last_payment_date": "2025-04-01",
+        "next_due_date": "2025-05-01",
+        "profile_pdf": {
+          "pdf_name": "customer_profile_ACC223344556.pdf",
+          "pdf_link": "https://www.ombroadband.com/downloads/customer_profile_ACC223344556.pdf",
+          "created_date": "2025-04-15"
+        }
+      },
+      "broadband_details": {
+        "service_status": "Running",
+        "plan_name": "Om Family 400",
+        "data_usage": "400 GB per month",
+        "fup_policy": "After 400 GB, speed reduced to 2 Mbps",
+        "active_plan": {
+          "plan_id": "PLNFAM400",
+          "plan_name": "Om Family 400",
+          "speed": "75 Mbps",
+          "monthly_charge": "₹699",
+          "validity_days": 30
+        },
+        "offer_plan": {
+          "offer_name": "Family Bonus",
+          "description": "Extra 50GB for 3 months",
+          "valid_till": "2025-06-30"
+        },
+        "expiry_date": "2025-05-31",
+        "wifi_device": {
+          "mac_id": "E5:F6:G7:H8:I9:J0",
+          "device_model": "Linksys EA7500"
+        },
+        "static_ip": {
+          "assigned": false,
+          "ip_address": ""
+        },
+        "hardware": {
+          "cmts": "Arris CMTS 5000",
+          "onu": "D-Link DPN-100",
+          "onu_serial_number": "DPN100223344556"
+        }
+      },
+      "broadband_usage": {
+        "daily_usage": [
+          {
+            "date": "2025-04-01",
+            "download_gb": 8.0,
+            "upload_gb": 2.0
+          },
+          {
+            "date": "2025-04-02",
+            "download_gb": 7.5,
+            "upload_gb": 1.8
+          },
+          {
+            "date": "2025-04-03",
+            "download_gb": 9.0,
+            "upload_gb": 2.2
+          }
+        ],
+        "monthly_summary": {
+          "month": "April 2025",
+          "total_download_gb": 120.0,
+          "total_upload_gb": 30.0,
+          "total_usage_gb": 150.0
+        }
+      },
+      "customer_support": {
+        "support_tickets": [
+          {
+            "ticket_id": "TICKET567890",
+            "issue_type": "Slow Speed",
+            "issue_description": "Internet speed drops at night",
+            "status": "Resolved",
+            "created_date": "2025-04-10",
+            "resolved_date": "2025-04-11"
+          }
+        ],
+        "feedback": {
+          "last_feedback_date": "2025-04-15",
+          "rating": 5.0,
+          "comments": "Very satisfied with the service."
+        }
+      },
+      "network_status": {
+        "last_updated": "2025-04-15T12:00:00Z",
+        "status": "Operational",
+        "issues": []
+      },
+      "billing_section": {
+        "invoice_id": "INV20250401005",
+        "invoice_date": "2025-04-01",
+        "billing_amount": "₹699",
+        "payment_status": "Paid",
+        "payment_mode": "UPI",
+        "payment_reference": "UPI20250401MNO345",
+        "payment_history": [
+          {
+            "payment_date": "2025-04-01",
+            "payment_amount": "₹699",
+            "payment_mode": "UPI",
+            "payment_status": "Paid",
+            "payment_reference": "UPI20250401MNO345"
+          }
+        ]
+      },
+      "customer_agreement_details": {
+        "service_username": "meenajoshi654",
+        "service_password": "EncryptedMeena654",
+        "agreement_number": "AGM20250401005",
+        "legacy_agreement": false,
+        "cmts_id": "CMTS-LAJPAT-005",
+        "node_id": "NODE-55-LJN",
+        "amplifier_id": "AMP-77-LJN",
+        "technology": "GPON",
+        "role": "Primary Subscriber",
+        "payment_type": "Prepaid",
+        "commission_model": "Direct Sales",
+        "idle_timeout_minutes": 25,
+        "effective_from": "2025-04-01",
+        "polybox": {
+          "assigned": true,
+          "box_id": "POLYBOX-00555",
+          "location": "Lajpat Nagar, Delhi"
+        },
+        "device_details": {
+          "device_type": "ONU",
+          "brand": "D-Link",
+          "model": "DPN-100",
+          "serial_number": "DPN100223344556",
+          "firmware_version": "V1.2.3"
+        }
+      },
+      "network_parameters": {
+        "technology": "GPON",
+        "gpon": {
+          "onu_status": "Active",
+          "rx_power": "-12.0 dBm",
+          "tx_power": "4.0 dBm",
+          "olt_rx_power": "-9.0 dBm",
+          "olt_tx_power": "3.8 dBm",
+          "attenuation": "7.8 dB",
+          "port": "5",
+          "fiber_type": "Single-mode",
+          "onu_model": "D-Link DPN-100",
+          "onu_serial_number": "DPN100223344556"
+        },
+        "docsis": {
+          "modem_status": "Connected",
+          "modem_rxpwr": "-9.0 dBmV",
+          "upstream_power_level": "41.0 dBmV",
+          "signal_noise_ratio": "37 dB",
+          "ping_statistics": {
+            "ping_avg": "15 ms",
+            "ping_min": "12 ms",
+            "ping_max": "18 ms"
+          },
+          "download_upload_ratio": "10:1",
+          "mac_address": "00:5E:6F:7A:8B:9C",
+          "wideband_channel_interface": "Enabled",
+          "traffic": {
+            "current_downstream_traffic": "20 Mbps",
+            "current_upstream_traffic": "4 Mbps"
+          }
+        },
+        "man": {
+          "connection_status": "Active",
+          "switch_name": "Cisco Catalyst 9200",
+          "switch_port_status": "Up",
+          "port_speed": "1 Gbps",
+          "vlan_id": "120",
+          "vlan_name": "Family-Users",
+          "mac_address": "00:EE:FF:00:11:22",
+          "latency": {
+            "average_latency_ms": "4 ms",
+            "packet_loss_percentage": "0.02%"
+          },
+          "throughput": {
+            "download_speed_mbps": "70 Mbps",
+            "upload_speed_mbps": "15 Mbps"
+          },
+          "qos_policy": "High Priority",
+          "traffic_statistics": {
+            "total_bytes_received": "140 GB",
+            "total_bytes_sent": "35 GB"
+          },
+          "switch_location": "Lajpat Nagar POP, Delhi"
+        }
+      }
+    },
+    {
+      "customer_id": "CUST556677889",
+      "data": {
+        "provider": "Om Broadband",
+        "timestamp": "2025-04-18T08:00:00Z"
+      },
+      "customer_service": {
+        "phone_numbers": ["+91 92123 02928"],
+        "email": "info@ombroadband.in",
+        "address": "12, Model Town, Delhi – 110009",
+        "website": "https://www.ombroadband.com/contact-us/",
+        "support_hours": "24/7"
+      },
+      "customer_details": {
+        "customer_name": "Sunil Kumar",
+        "subscriber_type": "Residential",
+        "account_number": "ACC556677889",
+        "password": "EncryptedSunil321",
+        "username": "sunilkumar321",
+        "customer_status": "Inactive",
+        "customer_type": "Residential",
+        "customer_category": "Individual",
+        "customer_subcategory": "House",
+        "customer_subtype": "Single",
+        "customer_subtype_code": "SGL",
+        "tier": "Bronze",
+        "location": "Delhi-NCR",
+        "contact_number": "+91 9876501234",
+        "email": "sunil.kumar@example.com",
+        "addresses": {
+          "billing_address": "12, Model Town, Delhi - 110009",
+          "installation_address": "12, Model Town, Delhi - 110009",
+          "aadhaar_address": "Model Town, Delhi - 110009"
+        }
+      },
+      "customer_preferences": {
+        "preferred_language": "Hindi",
+        "communication_mode": "Phone",
+        "contact_time": "Evening",
+        "marketing_opt_in": false,
+        "feedback_opt_in": false,
+        "service_notifications": false,
+        "promotional_offers": false
+      },
+      "customer_documents": {
+        "aadhaar_card": {
+          "document_number": "4567 8901 2345",
+          "document_type": "Aadhaar",
+          "document_link": "https://www.ombroadband.com/downloads/aadhaar_card_sunil.pdf",
+          "uploaded_date": "2025-01-05"
+        },
+        "address_proof": {
+          "document_number": "DL-4567890123456",
+          "document_type": "Passport",
+          "document_link": "https://www.ombroadband.com/downloads/passport_sunil.pdf",
+          "uploaded_date": "2025-01-10"
+        },
+        "identity_proof": {
+          "document_number": "DL4567890123",
+          "document_type": "PAN Card",
+          "document_link": "https://www.ombroadband.com/downloads/pan_card_sunil.pdf",
+          "uploaded_date": "2025-01-15"
+        }
+      },
+      "customer_feedback": {
+        "last_feedback_date": "2025-03-30",
+        "rating": 3.0,
+        "comments": "Service was average, connection dropped often."
+      },
+      "account_information": {
+        "account_status": "Inactive",
+        "account_creation_date": "2025-01-05",
+        "last_updated": "2025-03-30",
+        "provision_status": "Deprovisioned",
+        "payment_type": "Prepaid",
+        "billing_cycle": "1st to 30th of every month",
+        "due_amount": "₹0",
+        "last_payment_date": "2025-03-01",
+        "next_due_date": "2025-04-01",
+        "profile_pdf": {
+          "pdf_name": "customer_profile_ACC556677889.pdf",
+          "pdf_link": "https://www.ombroadband.com/downloads/customer_profile_ACC556677889.pdf",
+          "created_date": "2025-03-30"
+        }
+      },
+      "broadband_details": {
+        "service_status": "Stopped",
+        "plan_name": "Om Basic 100",
+        "data_usage": "100 GB per month",
+        "fup_policy": "After 100 GB, speed reduced to 512 Kbps",
+        "active_plan": {
+          "plan_id": "PLNBASIC100",
+          "plan_name": "Om Basic 100",
+          "speed": "10 Mbps",
+          "monthly_charge": "₹299",
+          "validity_days": 30
+        },
+        "offer_plan": {
+          "offer_name": "Welcome Offer",
+          "description": "First month free",
+          "valid_till": "2025-01-31"
+        },
+        "expiry_date": "2025-03-31",
+        "wifi_device": {
+          "mac_id": "D4:E5:F6:G7:H8:I9",
+          "device_model": "TP-Link TL-WR841N"
+        },
+        "static_ip": {
+          "assigned": false,
+          "ip_address": ""
+        },
+        "hardware": {
+          "cmts": "Cisco CMTS 8000",
+          "onu": "Huawei HG8245H",
+          "onu_serial_number": "HG8245H987654321"
+        }
+      },
+      "broadband_usage": {
+        "daily_usage": [
+          {
+            "date": "2025-03-01",
+            "download_gb": 2.0,
+            "upload_gb": 0.5
+          },
+          {
+            "date": "2025-03-02",
+            "download_gb": 1.5,
+            "upload_gb": 0.3
+          },
+          {
+            "date": "2025-03-03",
+            "download_gb": 2.2,
+            "upload_gb": 0.7
+          }
+        ],
+        "monthly_summary": {
+          "month": "March 2025",
+          "total_download_gb": 60.0,
+          "total_upload_gb": 15.0,
+          "total_usage_gb": 75.0
+        }
+      },
+      "customer_support": {
+        "support_tickets": [
+          {
+            "ticket_id": "TICKET456789",
+            "issue_type": "Frequent Disconnection",
+            "issue_description": "Connection drops every evening",
+            "status": "Resolved",
+            "created_date": "2025-03-10",
+            "resolved_date": "2025-03-12"
+          }
+        ],
+        "feedback": {
+          "last_feedback_date": "2025-03-30",
+          "rating": 3.0,
+          "comments": "Service was average, connection dropped often."
+        }
+      },
+      "network_status": {
+        "last_updated": "2025-03-30T18:00:00Z",
+        "status": "Stopped",
+        "issues": [
+          {
+            "issue_id": "ISSUE456789",
+            "description": "Account deactivated due to non-renewal",
+            "reported_date": "2025-03-31",
+            "resolved_date": null,
+            "status": "Closed"
+          }
+        ]
+      },
+      "billing_section": {
+        "invoice_id": "INV20250301004",
+        "invoice_date": "2025-03-01",
+        "billing_amount": "₹299",
+        "payment_status": "Paid",
+        "payment_mode": "Cash",
+        "payment_reference": "CASH20250301JKL012",
+        "payment_history": [
+          {
+            "payment_date": "2025-03-01",
+            "payment_amount": "₹299",
+            "payment_mode": "Cash",
+            "payment_status": "Paid",
+            "payment_reference": "CASH20250301JKL012"
+          }
+        ]
+      },
+      "customer_agreement_details": {
+        "service_username": "sunilkumar321",
+        "service_password": "EncryptedSunil321",
+        "agreement_number": "AGM20250301004",
+        "legacy_agreement": false,
+        "cmts_id": "CMTS-MODELTOWN-004",
+        "node_id": "NODE-44-MT",
+        "amplifier_id": "AMP-66-MT",
+        "technology": "GPON",
+        "role": "Primary Subscriber",
+        "payment_type": "Prepaid",
+        "commission_model": "Direct Sales",
+        "idle_timeout_minutes": 10,
+        "effective_from": "2025-03-01",
+        "polybox": {
+          "assigned": false,
+          "box_id": "",
+          "location": ""
+        },
+        "device_details": {
+          "device_type": "ONU",
+          "brand": "Huawei",
+          "model": "HG8245H",
+          "serial_number": "HG8245H987654321",
+          "firmware_version": "V3.0.0"
+        }
+      },
+      "network_parameters": {
+        "technology": "GPON",
+        "gpon": {
+          "onu_status": "Inactive",
+          "rx_power": "-18.0 dBm",
+          "tx_power": "2.0 dBm",
+          "olt_rx_power": "-15.0 dBm",
+          "olt_tx_power": "1.5 dBm",
+          "attenuation": "12.0 dB",
+          "port": "4",
+          "fiber_type": "Single-mode",
+          "onu_model": "Huawei HG8245H",
+          "onu_serial_number": "HG8245H987654321"
+        },
+        "docsis": {
+          "modem_status": "Disconnected",
+          "modem_rxpwr": "-20.0 dBmV",
+          "upstream_power_level": "30.0 dBmV",
+          "signal_noise_ratio": "25 dB",
+          "ping_statistics": {
+            "ping_avg": "50 ms",
+            "ping_min": "45 ms",
+            "ping_max": "60 ms"
+          },
+          "download_upload_ratio": "5:1",
+          "mac_address": "00:4D:5E:6F:7A:8B",
+          "wideband_channel_interface": "Disabled",
+          "traffic": {
+            "current_downstream_traffic": "0 Mbps",
+            "current_upstream_traffic": "0 Mbps"
+          }
+        },
+        "man": {
+          "connection_status": "Inactive",
+          "switch_name": "HP 1920",
+          "switch_port_status": "Down",
+          "port_speed": "100 Mbps",
+          "vlan_id": "110",
+          "vlan_name": "Inactive-Users",
+          "mac_address": "00:DD:EE:FF:00:11",
+          "latency": {
+            "average_latency_ms": "0 ms",
+            "packet_loss_percentage": "0%"
+          },
+          "throughput": {
+            "download_speed_mbps": "0 Mbps",
+            "upload_speed_mbps": "0 Mbps"
+          },
+          "qos_policy": "Low Priority",
+          "traffic_statistics": {
+            "total_bytes_received": "0 GB",
+            "total_bytes_sent": "0 GB"
+          },
+          "switch_location": "Model Town POP, Delhi"
+        }
+      }
+    },
+    {
+      "customer_id": "CUST112233445",
+      "data": {
+        "provider": "Om Broadband",
+        "timestamp": "2025-04-19T14:30:00Z"
+      },
+      "customer_service": {
+        "phone_numbers": ["+91 92123 02928", "+91 93133 02928"],
+        "email": "info@ombroadband.in",
+        "address": "55, Green Park, South Delhi – 110016",
+        "website": "https://www.ombroadband.com/contact-us/",
+        "support_hours": "24/7"
+      },
+      "customer_details": {
+        "customer_name": "Amit Singh",
+        "subscriber_type": "Business",
+        "account_number": "ACC112233445",
+        "password": "EncryptedAmit789",
+        "username": "amitsingh789",
+        "customer_status": "Active",
+        "customer_type": "Business",
+        "customer_category": "Corporate",
+        "customer_subcategory": "Office",
+        "customer_subtype": "SME",
+        "customer_subtype_code": "SME",
+        "tier": "Gold",
+        "location": "Delhi-NCR",
+        "contact_number": "+91 9988776655",
+        "email": "amit.singh@company.com",
+        "addresses": {
+          "billing_address": "55, Green Park, South Delhi - 110016",
+          "installation_address": "55, Green Park, South Delhi - 110016",
+          "aadhaar_address": "Green Park, Delhi - 110016"
+        }
+      },
+      "customer_preferences": {
+        "preferred_language": "English",
+        "communication_mode": "Email",
+        "contact_time": "Afternoon",
+        "marketing_opt_in": true,
+        "feedback_opt_in": false,
+        "service_notifications": true,
+        "promotional_offers": true
+      },
+      "customer_documents": {
+        "aadhaar_card": {
+          "document_number": "3456 7890 1234",
+          "document_type": "Aadhaar",
+          "document_link": "https://www.ombroadband.com/downloads/aadhaar_card_amit.pdf",
+          "uploaded_date": "2025-03-01"
+        },
+        "address_proof": {
+          "document_number": "DL-3456789012345",
+          "document_type": "Electricity Bill",
+          "document_link": "https://www.ombroadband.com/downloads/electricity_bill_amit.pdf",
+          "uploaded_date": "2025-03-05"
+        },
+        "identity_proof": {
+          "document_number": "DL3456789012",
+          "document_type": "PAN Card",
+          "document_link": "https://www.ombroadband.com/downloads/pan_card_amit.pdf",
+          "uploaded_date": "2025-03-10"
+        }
+      },
+      "customer_feedback": {
+        "last_feedback_date": "2025-04-10",
+        "rating": 4.2,
+        "comments": "Stable connection, but support response can improve."
+      },
+      "account_information": {
+        "account_status": "Active",
+        "account_creation_date": "2025-03-01",
+        "last_updated": "2025-04-10",
+        "provision_status": "Provisioned",
+        "payment_type": "Postpaid",
+        "billing_cycle": "15th to 14th of next month",
+        "due_amount": "₹1200",
+        "last_payment_date": "2025-04-05",
+        "next_due_date": "2025-04-15",
+        "profile_pdf": {
+          "pdf_name": "customer_profile_ACC112233445.pdf",
+          "pdf_link": "https://www.ombroadband.com/downloads/customer_profile_ACC112233445.pdf",
+          "created_date": "2025-04-10"
+        }
+      },
+      "broadband_details": {
+        "service_status": "Running",
+        "plan_name": "Om Biz 1000",
+        "data_usage": "1000 GB per month",
+        "fup_policy": "After 1000 GB, speed reduced to 5 Mbps",
+        "active_plan": {
+          "plan_id": "PLNBIZ1000",
+          "plan_name": "Om Biz 1000",
+          "speed": "200 Mbps",
+          "monthly_charge": "₹1999",
+          "validity_days": 30
+        },
+        "offer_plan": {
+          "offer_name": "Business Booster",
+          "description": "Double speed for 1 month",
+          "valid_till": "2025-05-15"
+        },
+        "expiry_date": "2025-05-14",
+        "wifi_device": {
+          "mac_id": "C3:D4:E5:F6:G7:H8",
+          "device_model": "Netgear Nighthawk"
+        },
+        "static_ip": {
+          "assigned": true,
+          "ip_address": "203.122.58.99"
+        },
+        "hardware": {
+          "cmts": "Cisco CMTS 12000",
+          "onu": "Nokia G-140W-C",
+          "onu_serial_number": "G140WC987654321"
+        }
+      },
+      "broadband_usage": {
+        "daily_usage": [
+          {
+            "date": "2025-04-01",
+            "download_gb": 50.0,
+            "upload_gb": 10.0
+          },
+          {
+            "date": "2025-04-02",
+            "download_gb": 45.0,
+            "upload_gb": 9.5
+          },
+          {
+            "date": "2025-04-03",
+            "download_gb": 60.0,
+            "upload_gb": 12.0
+          }
+        ],
+        "monthly_summary": {
+          "month": "April 2025",
+          "total_download_gb": 800.0,
+          "total_upload_gb": 200.0,
+          "total_usage_gb": 1000.0
+        }
+      },
+      "customer_support": {
+        "support_tickets": [
+          {
+            "ticket_id": "TICKET345678",
+            "issue_type": "Speed Issue",
+            "issue_description": "Speed lower than promised",
+            "status": "Open",
+            "created_date": "2025-04-09"
+          }
+        ],
+        "feedback": {
+          "last_feedback_date": "2025-04-10",
+          "rating": 4.2,
+          "comments": "Stable connection, but support response can improve."
+        }
+      },
+      "network_status": {
+        "last_updated": "2025-04-10T11:00:00Z",
+        "status": "Operational",
+        "issues": []
+      },
+      "billing_section": {
+        "invoice_id": "INV20250405003",
+        "invoice_date": "2025-04-05",
+        "billing_amount": "₹1999",
+        "payment_status": "Unpaid",
+        "payment_mode": "Net Banking",
+        "payment_reference": "NB20250405GHI789",
+        "payment_history": [
+          {
+            "payment_date": "2025-04-05",
+            "payment_amount": "₹1999",
+            "payment_mode": "Net Banking",
+            "payment_status": "Unpaid",
+            "payment_reference": "NB20250405GHI789"
+          }
+        ]
+      },
+      "customer_agreement_details": {
+        "service_username": "amitsingh789",
+        "service_password": "EncryptedAmit789",
+        "agreement_number": "AGM20250405003",
+        "legacy_agreement": true,
+        "cmts_id": "CMTS-GREENPARK-003",
+        "node_id": "NODE-33-GPK",
+        "amplifier_id": "AMP-55-GPK",
+        "technology": "GPON",
+        "role": "IT Manager",
+        "payment_type": "Postpaid",
+        "commission_model": "Corporate",
+        "idle_timeout_minutes": 60,
+        "effective_from": "2025-04-05",
+        "polybox": {
+          "assigned": true,
+          "box_id": "POLYBOX-00333",
+          "location": "Green Park, South Delhi"
+        },
+        "device_details": {
+          "device_type": "ONU",
+          "brand": "Nokia",
+          "model": "G-140W-C",
+          "serial_number": "G140WC987654321",
+          "firmware_version": "V3.1.0"
+        }
+      },
+      "network_parameters": {
+        "technology": "GPON",
+        "gpon": {
+          "onu_status": "Active",
+          "rx_power": "-8.0 dBm",
+          "tx_power": "5.0 dBm",
+          "olt_rx_power": "-6.5 dBm",
+          "olt_tx_power": "4.5 dBm",
+          "attenuation": "5.5 dB",
+          "port": "3",
+          "fiber_type": "Single-mode",
+          "onu_model": "Nokia G-140W-C",
+          "onu_serial_number": "G140WC987654321"
+        },
+        "docsis": {
+          "modem_status": "Connected",
+          "modem_rxpwr": "-6.0 dBmV",
+          "upstream_power_level": "38.0 dBmV",
+          "signal_noise_ratio": "40 dB",
+          "ping_statistics": {
+            "ping_avg": "8 ms",
+            "ping_min": "6 ms",
+            "ping_max": "12 ms"
+          },
+          "download_upload_ratio": "20:1",
+          "mac_address": "00:3C:4D:5E:6F:7A",
+          "wideband_channel_interface": "Enabled",
+          "traffic": {
+            "current_downstream_traffic": "100 Mbps",
+            "current_upstream_traffic": "5 Mbps"
+          }
+        },
+        "man": {
+          "connection_status": "Active",
+          "switch_name": "Cisco Catalyst 9300",
+          "switch_port_status": "Up",
+          "port_speed": "10 Gbps",
+          "vlan_id": "201",
+          "vlan_name": "Biz-Users",
+          "mac_address": "00:CC:DD:EE:FF:00",
+          "latency": {
+            "average_latency_ms": "2 ms",
+            "packet_loss_percentage": "0.05%"
+          },
+          "throughput": {
+            "download_speed_mbps": "180 Mbps",
+            "upload_speed_mbps": "20 Mbps"
+          },
+          "qos_policy": "High Priority",
+          "traffic_statistics": {
+            "total_bytes_received": "900 GB",
+            "total_bytes_sent": "250 GB"
+          },
+          "switch_location": "Green Park POP, Delhi"
+        }
+      }
+    },
+    {
+      "customer_id": "CUST987654321",
+      "data": {
+        "provider": "Om Broadband",
+        "timestamp": "2025-04-21T10:00:00Z"
+      },
+      "customer_service": {
+        "phone_numbers": [
+          "+91 92123 02928",
+          "+91 93133 02928",
+          "011 6670 9090"
+        ],
+        "email": "info@ombroadband.in",
+        "address": "201, Sector 5, Rohini, Delhi – 110085",
+        "website": "https://www.ombroadband.com/contact-us/",
+        "support_hours": "24/7"
+      },
+      "customer_details": {
+        "customer_name": "Priya Verma",
+        "subscriber_type": "Residential",
+        "account_number": "ACC987654321",
+        "password": "EncryptedPass456",
+        "username": "priyaverma456",
+        "customer_status": "Active",
+        "customer_type": "Residential",
+        "customer_category": "Individual",
+        "customer_subcategory": "Apartment",
+        "customer_subtype": "Family",
+        "customer_subtype_code": "FAM",
+        "tier": "Silver",
+        "location": "Delhi-NCR",
+        "contact_number": "+91 9123456789",
+        "email": "priya.verma@example.com",
+        "addresses": {
+          "billing_address": "201, Sector 5, Rohini, Delhi - 110085",
+          "installation_address": "201, Sector 5, Rohini, Delhi - 110085",
+          "aadhaar_address": "Village Rohini, Delhi - 110085"
+        }
+      },
+      "customer_preferences": {
+        "preferred_language": "English",
+        "communication_mode": "SMS",
+        "contact_time": "Morning",
+        "marketing_opt_in": false,
+        "feedback_opt_in": true,
+        "service_notifications": true,
+        "promotional_offers": false
+      },
+      "customer_documents": {
+        "aadhaar_card": {
+          "document_number": "2345 6789 0123",
+          "document_type": "Aadhaar",
+          "document_link": "https://www.ombroadband.com/downloads/aadhaar_card_priya.pdf",
+          "uploaded_date": "2025-02-10"
+        },
+        "address_proof": {
+          "document_number": "DL-2345678901234",
+          "document_type": "Voter ID",
+          "document_link": "https://www.ombroadband.com/downloads/voter_id_priya.pdf",
+          "uploaded_date": "2025-02-15"
+        },
+        "identity_proof": {
+          "document_number": "DL2345678901",
+          "document_type": "Driving License",
+          "document_link": "https://www.ombroadband.com/downloads/driving_license_priya.pdf",
+          "uploaded_date": "2025-02-20"
+        }
+      },
+      "customer_feedback": {
+        "last_feedback_date": "2025-04-18",
+        "rating": 4.8,
+        "comments": "Excellent speed and support."
+      },
+      "account_information": {
+        "account_status": "Active",
+        "account_creation_date": "2025-02-10",
+        "last_updated": "2025-04-18",
+        "provision_status": "Provisioned",
+        "payment_type": "Prepaid",
+        "billing_cycle": "1st to 30th of every month",
+        "due_amount": "₹0",
+        "last_payment_date": "2025-04-10",
+        "next_due_date": "2025-05-01",
+        "profile_pdf": {
+          "pdf_name": "customer_profile_ACC987654321.pdf",
+          "pdf_link": "https://www.ombroadband.com/downloads/customer_profile_ACC987654321.pdf",
+          "created_date": "2025-04-18"
+        }
+      },
+      "broadband_details": {
+        "service_status": "Running",
+        "plan_name": "Om Ultra 300",
+        "data_usage": "300 GB per month",
+        "fup_policy": "After 300 GB, speed reduced to 1 Mbps",
+        "active_plan": {
+          "plan_id": "PLN300U",
+          "plan_name": "Om Ultra 300",
+          "speed": "50 Mbps",
+          "monthly_charge": "₹599",
+          "validity_days": 30
+        },
+        "offer_plan": {
+          "offer_name": "Festive Offer",
+          "description": "Get extra 50GB for 2 months",
+          "valid_till": "2025-06-30"
+        },
+        "expiry_date": "2025-05-31",
+        "wifi_device": {
+          "mac_id": "B2:C3:D4:E5:F6:G7",
+          "device_model": "D-Link DIR-825"
+        },
+        "static_ip": {
+          "assigned": false,
+          "ip_address": ""
+        },
+        "hardware": {
+          "cmts": "Arris CMTS 6000",
+          "onu": "ZTE F660",
+          "onu_serial_number": "F660123456789"
+        }
+      },
+      "broadband_usage": {
+        "daily_usage": [
+          {
+            "date": "2025-04-01",
+            "download_gb": 10.2,
+            "upload_gb": 2.1
+          },
+          {
+            "date": "2025-04-02",
+            "download_gb": 7.8,
+            "upload_gb": 1.9
+          },
+          {
+            "date": "2025-04-03",
+            "download_gb": 12.0,
+            "upload_gb": 3.0
+          }
+        ],
+        "monthly_summary": {
+          "month": "April 2025",
+          "total_download_gb": 180.5,
+          "total_upload_gb": 45.2,
+          "total_usage_gb": 225.7
+        }
+      },
+      "customer_support": {
+        "support_tickets": [
+          {
+            "ticket_id": "TICKET234567",
+            "issue_type": "Router Issue",
+            "issue_description": "Router not connecting",
+            "status": "Resolved",
+            "created_date": "2025-04-05",
+            "resolved_date": "2025-04-06"
+          }
+        ],
+        "feedback": {
+          "last_feedback_date": "2025-04-18",
+          "rating": 4.8,
+          "comments": "Excellent speed and support."
+        }
+      },
+      "network_status": {
+        "last_updated": "2025-04-18T09:00:00Z",
+        "status": "Operational",
+        "issues": []
+      },
+      "billing_section": {
+        "invoice_id": "INV20250410002",
+        "invoice_date": "2025-04-10",
+        "billing_amount": "₹599",
+        "payment_status": "Paid",
+        "payment_mode": "Credit Card",
+        "payment_reference": "CC20250410DEF456",
+        "payment_history": [
+          {
+            "payment_date": "2025-04-10",
+            "payment_amount": "₹599",
+            "payment_mode": "Credit Card",
+            "payment_status": "Paid",
+            "payment_reference": "CC20250410DEF456"
+          }
+        ]
+      },
+      "customer_agreement_details": {
+        "service_username": "priyaverma456",
+        "service_password": "EncryptedPass456",
+        "agreement_number": "AGM20250410002",
+        "legacy_agreement": false,
+        "cmts_id": "CMTS-ROHINI-002",
+        "node_id": "NODE-12-ROH",
+        "amplifier_id": "AMP-22-ROHINI",
+        "technology": "GPON",
+        "role": "Primary Subscriber",
+        "payment_type": "Prepaid",
+        "commission_model": "Referral",
+        "idle_timeout_minutes": 20,
+        "effective_from": "2025-04-10",
+        "polybox": {
+          "assigned": false,
+          "box_id": "",
+          "location": ""
+        },
+        "device_details": {
+          "device_type": "ONU",
+          "brand": "ZTE",
+          "model": "F660",
+          "serial_number": "F660123456789",
+          "firmware_version": "V2.0.1"
+        }
+      },
+      "network_parameters": {
+        "technology": "GPON",
+        "gpon": {
+          "onu_status": "Active",
+          "rx_power": "-10.5 dBm",
+          "tx_power": "3.8 dBm",
+          "olt_rx_power": "-7.9 dBm",
+          "olt_tx_power": "3.2 dBm",
+          "attenuation": "6.7 dB",
+          "port": "2",
+          "fiber_type": "Single-mode",
+          "onu_model": "ZTE F660",
+          "onu_serial_number": "F660123456789"
+        },
+        "docsis": {
+          "modem_status": "Disconnected",
+          "modem_rxpwr": "-12.0 dBmV",
+          "upstream_power_level": "40.0 dBmV",
+          "signal_noise_ratio": "36 dB",
+          "ping_statistics": {
+            "ping_avg": "20 ms",
+            "ping_min": "18 ms",
+            "ping_max": "25 ms"
+          },
+          "download_upload_ratio": "8:1",
+          "mac_address": "00:2B:3C:4D:5E:6F",
+          "wideband_channel_interface": "Disabled",
+          "traffic": {
+            "current_downstream_traffic": "0 Mbps",
+            "current_upstream_traffic": "0 Mbps"
+          }
+        },
+        "man": {
+          "connection_status": "Inactive",
+          "switch_name": "Juniper EX4300",
+          "switch_port_status": "Down",
+          "port_speed": "1 Gbps",
+          "vlan_id": "105",
+          "vlan_name": "Home-Users",
+          "mac_address": "00:BB:CC:DD:EE:FF",
+          "latency": {
+            "average_latency_ms": "0 ms",
+            "packet_loss_percentage": "0%"
+          },
+          "throughput": {
+            "download_speed_mbps": "0 Mbps",
+            "upload_speed_mbps": "0 Mbps"
+          },
+          "qos_policy": "Best Effort",
+          "traffic_statistics": {
+            "total_bytes_received": "0 GB",
+            "total_bytes_sent": "0 GB"
+          },
+          "switch_location": "Rohini POP, Delhi"
+        }
+      }
+    }
+  ]
+}
