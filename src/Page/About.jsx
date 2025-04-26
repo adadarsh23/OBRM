@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card } from "@/components/ui/card";
+import { Card } from "@/components/ui/Card";
 import logo from "../assets/android-chrome-192x192.png"; // ShadCN component for UI enhancement
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
