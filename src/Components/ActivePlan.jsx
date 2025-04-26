@@ -71,7 +71,7 @@ export default function ActivePlan({ searchType, searchValue }) {
             <table className="table table-bordered rounded-2xl shadow-lg hover:shadow-2xl w-full md:w-auto">
               <thead className="bg-gray-200">
                 <tr>
-                  <th colSpan="8" className="bg-primary text-white text-center">
+                  <th colSpan="8" className="bg-primary text-white ">
                     Active Plan Details (Tax not included)
                   </th>
                 </tr>

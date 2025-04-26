@@ -14,7 +14,7 @@ export default function Loading() {
   return (
     <div className="flex flex-col items-center justify-center h-full">
       {View}
-      <p className=" text-lg text-gray-600">Please Wait find the Details</p>
+      <p className=" text-lg text-gray-600">Please Enter the valid Details</p>
     </div>
   );
 }

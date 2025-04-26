@@ -32,7 +32,7 @@ export default function Service({ searchType, searchValue }) {
       .toLowerCase();
 
   const filteredDetails = details.filter((item) => {
-    if (searchType === "None" || !searchValue) return true; // <-- Add this line
+    if (searchType === "None" || !searchValue) return true;
 
     if (searchType === "Account No.") {
       return (
@@ -58,17 +58,18 @@ export default function Service({ searchType, searchValue }) {
     }
     return true;
   });
+
   return (
-    <div className="p-6 shadow-2xl max-w-7xl mx-auto">
+    <div className="p-6 shadow-2xl max-w-6xl mx-auto">
       {filteredDetails.length === 0 ? (
-        <div><Loading/></div>
+        <div className=" flex justify-center items-center h-48">
+          <Loading />
+        </div>
       ) : (
         filteredDetails.slice(0, 1).map((item, idx) => {
-          // Get phone and email from item, fallback to empty string if not present
           const phoneNumber = item?.customer_details?.contact_number || "";
           const email = item?.customer_details?.email || "";
 
-          // Masking logic
           const displayPhone = showPhone
             ? phoneNumber
             : phoneNumber
@@ -93,23 +94,23 @@ export default function Service({ searchType, searchValue }) {
               </thead>
               <tbody>
                 <tr>
-                  <td className='text'>Service Status</td>
+                  <td className="text-sm md:text-base">Service Status</td>
                   <td>{item?.account_information?.account_status ?? "N/A"}</td>
                 </tr>
                 <tr>
-                  <td>Provision Status</td>
+                  <td className="text-sm md:text-base">Provision Status</td>
                   <td>{item?.account_information?.provision_status ?? "N/A"}</td>
                 </tr>
                 <tr>
-                  <td>Customer Profile</td>
+                  <td className="text-sm md:text-base">Customer Profile</td>
                   <td>{item?.customer_details?.tier ?? "N/A"}</td>
                 </tr>
                 <tr>
-                  <td>Payment</td>
+                  <td className="text-sm md:text-base">Payment</td>
                   <td>{item?.account_information?.payment_type ?? "N/A"}</td>
                 </tr>
                 <tr>
-                  <td>Mobile Number</td>
+                  <td className="text-sm md:text-base">Mobile Number</td>
                   <td className="flex items-center">
                     {displayPhone}
                     {phoneNumber && (
@@ -118,7 +119,7 @@ export default function Service({ searchType, searchValue }) {
                   </td>
                 </tr>
                 <tr>
-                  <td>Email id</td>
+                  <td className="text-sm md:text-base">Email id</td>
                   <td className="flex items-center">
                     {displayEmail}
                     {email && (
@@ -127,21 +128,21 @@ export default function Service({ searchType, searchValue }) {
                   </td>
                 </tr>
                 <tr>
-                  <td>Technology Used</td>
+                  <td className="text-sm md:text-base">Technology Used</td>
                   <td className="flex items-center">
                     {item?.network_parameters?.technology ?? "N/A"}
                   </td>
                 </tr>
                 <tr>
-                  <td>Serial Number</td>
+                  <td className="text-sm md:text-base">Serial Number</td>
                   <td>{item?.broadband_details?.hardware?.onu_serial_number ?? "N/A"}</td>
                 </tr>
                 <tr>
-                  <td>Subscriber Type</td>
+                  <td className="text-sm md:text-base">Subscriber Type</td>
                   <td>{item?.customer_details?.subscriber_type ?? "N/A"}</td>
                 </tr>
                 <tr>
-                  <td>Last Payment Date</td>
+                  <td className="text-sm md:text-base">Last Payment Date</td>
                   <td>{item?.account_information?.last_payment_date ?? "N/A"}</td>
                 </tr>
               </tbody>
