@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"   # Change to "yarn build" if using Yarn
+  publish = "build"           # This is where Netlify serves your site from
+
+[build.environment]
+  NODE_VERSION = "18"         # Change to your Node.js version
+  NPM_VERSION = "9"           # (Optional) Set npm version if needed
+  REACT_APP_API_URL = "https://your-api.com"  # Example environment variable
+
+[context.production.environment]
+  REACT_APP_ENV = "production"
+
+[context.deploy-preview.environment]
+  REACT_APP_ENV = "staging"

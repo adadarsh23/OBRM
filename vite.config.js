@@ -22,6 +22,12 @@ export default defineConfig({
   build: {
     outDir: path.resolve(__dirname, 'dist'),
     chunkSizeWarningLimit: 2600,
+    rollupOptions: {
+      onwarn(warning, warn) {
+        if (warning.code === 'EVAL') return;
+        warn(warning);
+      },
+    },
   },
   preview: {
     port: 8080,
