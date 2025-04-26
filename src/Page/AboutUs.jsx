@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import image from '../assets/picked-Broadband_16_What-is-Broadband_.jpg'; // Correct the image import
 
-export default function About() {
+export default function AboutUs() {
   return (
     <div
       className="flex justify-center items-center min-h-screen bg-cover bg-center mt-20 "
