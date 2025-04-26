@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 import Home from './Page/Home';
-import About from './Page/About';
+import AboutUs from './Page/AboutUs'
 import Contact from './Page/Contact';
 import Nopage from './Page/Nopage';
 import Login from './Page/Login';
@@ -50,7 +50,7 @@ function App() {
                 )
               }
             />
-            <Route path="/about" element={<About />} />
+            <Route path="/about" element={<AboutUs />} />
             <Route path="/contact" element={<Contact />} />
             <Route
               path="/login"
